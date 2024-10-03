@@ -4,4 +4,9 @@
 
 3. whitebalance 파일 --- train파일의 이미지들을 whitebalance
 
-   
+
+
+나머지는 필요하면 사용 / 
+namechange 디렉토리 내 파일명 변경 지워줌()
+8번과 11번 클래스 사진들 찾고 분류
+resized된 사진들 라벨 맞는지 확인
