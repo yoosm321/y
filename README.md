@@ -5,6 +5,8 @@
 3. whitebalance 파일 --- train파일의 이미지들을 whitebalance
 
 
+위 123 순서로 진행하면 된다.
+
 
 나머지는 필요하면 사용 / 
 namechange 디렉토리 내 파일명 변경 지워줌()
